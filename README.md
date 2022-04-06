@@ -3,7 +3,7 @@ this is repository for content for machine learning @aws.
 
 ## this is the solution for [kaggle problem](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations).
 
-### Given the transaction, custoer and product data we need to recoomend products to customer who are likely to buy in next 7 days
+### Given the transaction, customers and products data we need to recoomend products to customer who are likely to buy in next 7 days
 ## Data
 - **transactions_train.csv - Data about purchases made by customers. Contains customer id, article id and transaction timestamp**
 - **customers.csv - Basic details about customer. Like Age, Club status, Fashion news subscription etc.**
@@ -12,7 +12,7 @@ this is repository for content for machine learning @aws.
 ## Approach
 The Problem is broken down in 2 parts
 - Identify Customers who are likely to purchase in next 7 days
-- Recommendation model to recommend products to customers.
+- Recommendation model to recommend products to customers identified from the previous step
 
 ## Files
 - 1-customer-purchase-prediction.ipynb (This contains the code for predicting customers who are likely to purchase in next 7 days)
