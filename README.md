@@ -15,7 +15,7 @@ The Problem is broken down in 2 parts
 - Recommendation model to recommend products to customers.
 
 ## Files
-### - 1-customer-purchase-prediction.ipynb (This contains the code for predicting customers who are likely to purchase in next 7 days)
-### - 2-Customer-Product-sparse-data-prep-with-attributes.ipynb (This contains the code for preparing data for recommender system)
-### - 3-Customer-recommender-FM-with-attributes.ipynb (This contains the code to build recommendation system using Sagemaker built in Algorithm - Factorization machine)
+- 1-customer-purchase-prediction.ipynb (This contains the code for predicting customers who are likely to purchase in next 7 days)
+- 2-Customer-Product-sparse-data-prep-with-attributes.ipynb (This contains the code for preparing data for recommender system)
+- 3-Customer-recommender-FM-with-attributes.ipynb (This contains the code to build recommendation system using Sagemaker built in Algorithm - Factorization machine.)
 
