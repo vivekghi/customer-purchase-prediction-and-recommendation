@@ -5,9 +5,9 @@ this is repository for content for machine learning @aws.
 
 ### Given the transaction, custoer and product data we need to recoomend products to customer who are likely to buy in next 7 days
 ## Data
-- ** transactions_train.csv - Data about purchases made by customers. Contains customer id, article id and transaction timestamo
-- ** customers.csv - Basic details about customer. Like Age, Club status, Fashion news subscription etc.
-- ** articles.csv - Contains basic details about product like Product Group, Description , Name etc
+- **transactions_train.csv - Data about purchases made by customers. Contains customer id, article id and transaction timestamp**
+- **customers.csv - Basic details about customer. Like Age, Club status, Fashion news subscription etc.**
+- **articles.csv - Contains basic details about product like Product Group, Description , Name etc**
 
 ## Approach
 The Problem is broken down in 2 parts
