@@ -1,4 +1,4 @@
-# ml-aws-content
+# customer-purchase-prediction-and-recommendation
 this is repository for content for machine learning @aws. 
 
 ## this is the solution for [kaggle problem](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations).
